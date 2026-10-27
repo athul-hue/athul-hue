@@ -23,7 +23,7 @@ I'm a BCA student specializing in Artificial Intelligence and Machine Learning a
 
 ### 🚀 Featured Projects
 
-- **Vendra AI** — Industrial sourcing and procurement platform
+- **Nammude Kada** — Industrial sourcing and procurement platform
 - **GAN-Based Human Image Generation & Diversity Analyzer**
 - **Smart Traffic System** — Capstone project
 - **AI Interview Pro** — AI-powered interview application
